@@ -9,6 +9,8 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
  - /fonts
    - /pokemon-sv
      - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
+   - /sm64
+     - /labels.ttf (*Super Star 64 (Extendida) - Yo, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
  - /labels
    - /pokemon-sv
      - /donar.png (*Yo, Sprite de Gholdengo - [Emmuffin](https://twitter.com/Ernmuffin)*)
@@ -27,6 +29,8 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
   - /fonts
     - /pokemon-sv
       - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
+    - /sm64
+      - /labels.ttf (*Super Star 64 (Extended) - Me, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
   - /labels
     - /pokemon-sv
       - /donar.png (*Me, Gholdengo Sprite - [Emmuffin](https://twitter.com/Ernmuffin)*)
