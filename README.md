@@ -7,11 +7,14 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
  - /chat
    - /pokemon-sv.png (*Yo*)
    - /sm64.png (*Yo*)
+   - /hunger-games.png (*Yo*)
  - /fonts
    - /pokemon-sv
      - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
    - /sm64
      - /labels.ttf (*Super Star 64 (Extendida) - Yo, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
+   - /hunger-games
+     - /labels.ttf (*Pixelated Writer (Extendida & Modificada) - Yo. Pixelated Elegance (Original) - [GGBotNet](https://ggbot.net/)*)
  - /labels
    - /pokemon-sv
      - /donar.png (*Yo, Sprite de Gholdengo - [Emmuffin](https://twitter.com/Ernmuffin)*)
@@ -31,11 +34,14 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
   - /chat
     - /pokemon-sv.png (*Me*)
     - /sm64.png (*Me*)
+    - /hunger-games (*Me*)
   - /fonts
     - /pokemon-sv
       - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
     - /sm64
       - /labels.ttf (*Super Star 64 (Extended) - Me, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
+    - /hunger-games
+      - /labels.ttf (*Pixelated Writer (Extended & Modified) - Me, Pixelated Elegance (Original) - [GGBotNet](https://ggbot.net/)*)
   - /labels
     - /pokemon-sv
       - /donar.png (*Me, Gholdengo Sprite - [Emmuffin](https://twitter.com/Ernmuffin)*)
