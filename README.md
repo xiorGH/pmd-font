@@ -12,7 +12,7 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
    - /sm64.ttf (*Super Star 64 (Extendida) - Yo, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
    - /hunger-games.ttf (*Pixelated Writer (Extendida & Modificada) - Yo. Pixelated Elegance (Original) - [GGBotNet](https://ggbot.net/)*)
    - /minecraft.ttf - (*Minecraft - [JDGraphics](https://www.fontspace.com/jdgraphics)*)
-   - /undertale.ttf - (*Determination Sans - [Abacadaba](https://www.fontspace.com/abacadaba)*)
+   - /undertale.ttf - (*Greater Determination SB Thin - [CTFonts](https://fontstruct.com/fontstructors/1665255/ctfonts)*)
  - /labels
    - /pokemon-sv
      - /donar.png (*Yo, Sprite de Gholdengo - [Emmuffin](https://twitter.com/Ernmuffin)*)
