@@ -6,6 +6,7 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
    - /pokemon-sv.png (*Yo*)
    - /sm64.png (*Yo*)
    - /hunger-games.png (*Yo*)
+   - /deltarune.png (*Yo*)
  - /fonts
    - /pokemon-sv.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
    - /sm64.ttf (*Super Star 64 (Extendida) - Yo, Mario 64 (Original) - [bunnywhip](https://fontmeme.com/fonts/bunnywhip-listing/)*)
@@ -19,6 +20,9 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
    - /sm64
      - /donar.png (*Yo*)
      - /seguir.png (*Yo*)
+   - /deltarune
+     - /donar.png (*Yo, Spamton Sprite - [Mamar11](https://www.reddit.com/user/Mamar11/)*)
+     - /seguir.png (*Yo, Ralsei Sprite - [Toby Fox](https://bsky.app/profile/tobyfox.undertale.com)*)
    - /chat (Estos varían constantemente, así que no sé como dar sus respectivos créditos)
      - /hunger-games
        - /donar.png
